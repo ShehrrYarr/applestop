@@ -350,7 +350,7 @@ public function updateMobile(Request $request)
     $data = Mobile::findOrFail($request->id);
 
     // Only user id 6 can update
-    if (auth()->user()->id !== 6) {
+    if (auth()->user()->id !== 1) {
         return redirect()->back()->with('danger', "You can't edit the product.");
     }
 
