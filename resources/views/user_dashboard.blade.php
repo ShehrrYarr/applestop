@@ -28,21 +28,7 @@
                                                 </span> -->
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 col-xl-3 col-sm-6 col-12">
-                                        <div
-                                            class="d-flex align-items-start mb-sm-1 mb-xl-0 border-right-blue-grey border-right-lighten-5">
-                                            <span class="card-icon danger d-flex justify-content-center mr-3">
-                                                <i class="icon p-1 fa fa-mobile customize-icon font-large-5 p-1"></i>
-                                            </span>
-                                            <div class="stats-amount mr-3">
-                                                <h3 class="heading-text text-bold-600">{{$receivedMobiles}}</h3>
-                                                <p class="sub-heading">Received Mobiles</p>
-                                            </div>
-                                            <!-- <span class="inc-dec-percentage">
-                                                    <small class="danger"><i class="fa fa-long-arrow-down"></i> 2.0%</small>
-                                                </span> -->
-                                        </div>
-                                    </div>
+                                    
                                     <div class="col-lg-6 col-xl-3 col-sm-6 col-12">
                                         <div class="d-flex align-items-start border-right-blue-grey border-right-lighten-5">
                                             <span class="card-icon success d-flex justify-content-center mr-3">
@@ -63,33 +49,6 @@
                                                 <i class="icon p-1 fa fa-mobile customize-icon font-large-5 p-1"></i>
                                             </span>
                                             <div class="stats-amount mr-3">
-                                                <h3 class="heading-text text-bold-600">{{$receivedSoldMobiles}}</h3>
-                                                <p class="sub-heading">Received Sold Mobiles</p>
-                                            </div>
-                                            <!-- <span class="inc-dec-percentage">
-                                                    <small class="danger"><i class="fa fa-long-arrow-down"></i> 13.6%</small>
-                                                </span> -->
-                                        </div>
-                                    </div>
-                                     
-                                    
-                                     
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                 <div class="row grouped-multiple-statistics-card">
-                    <div class="col-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <div class="row">
-                                    <div class="col-lg-6 col-xl-3 col-sm-6 col-12">
-                                        <div class="d-flex align-items-start">
-                                            <span class="card-icon warning d-flex justify-content-center mr-3">
-                                                <i class="icon p-1 fa fa-mobile customize-icon font-large-5 p-1"></i>
-                                            </span>
-                                            <div class="stats-amount mr-3">
                                                 <h3 class="heading-text text-bold-600">{{ $pendingMobiles }}</h3>
                                                 <p class="sub-heading">Pending Mobiles</p>
                                             </div>
@@ -98,27 +57,16 @@
                                                     </span> -->
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 col-xl-3 col-sm-6 col-12">
-                                        <div class="d-flex align-items-start">
-                                            <span class="card-icon warning d-flex justify-content-center mr-3">
-                                                <i class="icon p-1 fa fa-mobile customize-icon font-large-5 p-1"></i>
-                                            </span>
-                                            <div class="stats-amount mr-3">
-                                                <h3 class="heading-text text-bold-600">{{ $receivedPendingMobiles }}</h3>
-                                                <p class="sub-heading">Receive Pending Mobiles</p>
-                                            </div>
-                                            <!-- <span class="inc-dec-percentage">
-                                                        <small class="danger"><i class="fa fa-long-arrow-down"></i> 13.6%</small>
-                                                    </span> -->
-                                        </div>
-                                    </div>
-
+                                    
+                                     
+                                    
+                                     
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
+                 
                 <div class="row grouped-multiple-statistics-card">
                     <div class="col-12">
                         <div class="card">

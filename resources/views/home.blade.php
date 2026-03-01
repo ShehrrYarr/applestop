@@ -6,7 +6,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Al Zaitoon Traders</title>
+    <title>Apple Stop</title>
     <link rel="icon" href="homepage_assets/img/AZT.png" src="homepage_assets/img/image1.jpg" type="image/x-icon">
 
 
@@ -76,19 +76,13 @@
             <div class="container header">
 
                 <a class="navbar-brand" href="/">
-                    Al Zaitoon<i class="version-number">Traders</i>
+                    Apple<i class="version-number">Stop</i>
                     <!--
                             Custom Logo
                             <img src="homepage_assets/images/logo.svg" alt="Leverage">
                         -->
                 </a>
-                <a class="navbar-brand" href="/">
-                    Usman&Ali<i class="version-number">Mobiles</i>
-                    <!--
-                            Custom Logo
-                            <img src="homepage_assets/images/logo.svg" alt="Leverage">
-                        -->
-                </a>
+                
               
 
                 <div class="ml-auto"></div>
@@ -143,8 +137,7 @@
                     <div class="slide-content row" data-mask-768="80">
                         <div class="col-12 d-flex inner">
                             <div class="left align-self-center text-center text-md-left">
-                                <h1 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">Al
-                                    Zaitoon Traders | Usman & Ali Mobiles</h1>
+                                <h1 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">Apple Stop Mobiles</h1>
                                 <p data-aos="zoom-out-up" data-aos-delay="800" class="description">We are selling
                                     PTA,NON-PTA Iphones and Andriods at affordable prices</p>
                                 <a href="#" data-toggle="modal" data-target="#login"
@@ -307,7 +300,7 @@
                             <div class="branding col-12 p-3 text-center text-lg-left item">
                                 <div class="brand">
                                     <a href="/" class="logo">
-                                        Al Zaitoon Traders | Usman & Ali Mobiles
+                                        Apple Stop
                                         <!--
                                                 Custom Logo
                                                 <img src="homepage_assets/images/logo.svg" alt="Leverage">

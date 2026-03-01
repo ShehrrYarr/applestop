@@ -9,7 +9,7 @@
     <meta name="description" content="Stack admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities.">
     <meta name="keywords" content="admin template, stack admin template, dashboard template, flat admin template, responsive admin template, web app">
     <meta name="author" content="PIXINVENT">
-    <title>Al Zaitoon Trader</title>
+    <title>Apple Stop</title>
     <link rel="apple-touch-icon" href="../../../app-assets/images/ico/apple-icon-120.png">
     <link rel="shortcut icon" type="image/x-icon" href="../../../app-assets/images/ico/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i%7COpen+Sans:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
@@ -65,7 +65,7 @@
                     <li class="nav-item mobile-menu d-md-none mr-auto"><a class="nav-link nav-menu-main menu-toggle hidden-xs" href="#"><i class="feather icon-menu font-large-1"></i></a></li>
                     <li class="nav-item">
                         <a class="navbar-brand" href="#">
-                            <h5  class="brand-text">Al Zaitoon Trader & Usman&Ali Mobiles</h5>
+                            <h5  class="brand-text">Apple Stop</h5>
                         </a></li>
                     <li class="nav-item d-md-none"><a class="nav-link open-navbar-container" data-toggle="collapse" data-target="#navbar-mobile"><i class="fa fa-ellipsis-v"></i></a></li>
                 </ul>
@@ -135,7 +135,7 @@
                         </li>
                     </ul>
                 </li>
-                <li class=" nav-item"><a href="#"><i class="feather icon-tv"></i><span class="menu-title" data-i18n="Templates">Transfer Inventory</span></a>
+                {{-- <li class=" nav-item"><a href="#"><i class="feather icon-tv"></i><span class="menu-title" data-i18n="Templates">Transfer Inventory</span></a>
                     <ul class="menu-content">
                         <li class="@if(\Request::is('receivedtoday')) active @endif"><a class="menu-item" href="/receivedtoday" data-i18n="1 columns">Received Today</a>
                         </li>
@@ -157,7 +157,7 @@
                         </li>
 
                     </ul>
-                </li>
+                </li> --}}
                  <li class=" nav-item"><a href="#"><i class="feather icon-tv"></i><span class="menu-title"
                             data-i18n="Templates">Restore Inventory</span></a>
                     <ul class="menu-content">
@@ -185,8 +185,8 @@
                 </li>
 
 
-                <li class=" navigation-header"><span>Other shops</span><i class=" feather icon-minus" data-toggle="tooltip" data-placement="right" data-original-title="Components"></i>
-                </li>
+                <li class=" navigation-header"><span>Settings</span><i class=" feather icon-minus" data-toggle="tooltip" data-placement="right" data-original-title="Components"></i>
+                {{-- </li>
                 @foreach ($userData as $data)
                 <li class="nav-item"><a href="app-contacts.html"><i class="feather icon-credit-card"></i><span class="menu-title" data-i18n="Contacts">{{$data['user']->name}}</span></a>
                     <ul class="menu-content">
@@ -203,7 +203,7 @@
                         <li class="@if(\Request::is('othertransfersoldinventory')) active @endif"><a class="menu-item" href="/othertransfersoldinventory/{{$data['user']->id}}" data-i18n="4 columns">Sold Received Inventory</a></li>
                     </ul>
                 </li>
-            @endforeach
+            @endforeach --}}
 
             <li class=" nav-item"><a href="#"><i class="feather icon-tv"></i><span
                                                         class="menu-title" data-i18n="Templates">Add values</span></a>
